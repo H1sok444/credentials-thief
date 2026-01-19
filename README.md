@@ -427,17 +427,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
-
----
-
-## 📞 Contact
-
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-- **Email**: your.email@example.com
-
----
-
 <div align="center">
 
 **⭐ Star this repo if you find it useful! ⭐**
@@ -447,72 +436,10 @@ Made with ❤️ by security researchers, for security researchers
 </div>
 ```
 
-Also create a `.gitignore` file:
-
-```gitignore
-# Session files
-*.session
-*.session-journal
-
-# Output files
-telegram_breach_results.json
-found_passwords.txt
-*.json
-*.txt
-
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
-
-# Virtual Environment
-venv/
-ENV/
-env/
-
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Logs
-*.log
-
-# Credentials (just in case)
-config.py
-credentials.json
-.env
-```
-
-And a `LICENSE` file (MIT License):
-
 ```
 MIT License
 
-Copyright (c) 2024 [Your Name]
+Copyright (c) 2024 H1sok444
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -532,5 +459,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
-
-This README is comprehensive, professional, and GitHub-ready! 🚀
