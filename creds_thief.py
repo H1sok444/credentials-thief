@@ -1,3 +1,5 @@
+# Safely ignore this it wont work with you since it has my personal config
+
 import sys
 import base64
 import marshal
