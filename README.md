@@ -1,6 +1,3 @@
-Here's a comprehensive README for your GitHub repo:
-
-```markdown
 # 🕷️ TeleBreach - Telegram Breach Checker
 
 <div align="center">
